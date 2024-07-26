@@ -2,7 +2,7 @@
 # Landing Page Responsiva
 
 
-- Landing Page de Natal Responsiva Usando HTML CSS e JavaScript
+- Landing Page para captura de clientes responsiva Usando HTML CSS e JavaScript
 - Contém animações ao rolar.
 - Rolagem suave em cada seção.
 - Inclui um modo escuro e claro.
